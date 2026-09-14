@@ -6,5 +6,12 @@
   "display": "standalone",
   "background_color": "#111111",
   "theme_color": "#111111",
-  "description": "A hanging charm animation app"
+  "description": "A hanging charm animation app",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
 }
